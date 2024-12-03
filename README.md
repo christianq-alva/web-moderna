@@ -49,7 +49,7 @@ Explicación de cada regla:
 5.	"no-unused-vars": "warn"
 	•	Genera una advertencia si hay variables declaradas pero no utilizadas.
 	•	No detiene la ejecución, pero señala la posible ineficiencia.
-	6.	"no-console": "warn"
+6.	"no-console": "warn"
 	•	Genera una advertencia si se usa console.log u otras funciones de consola.
 	•	Esto fomenta evitar el uso de logs en el código final.    
 
