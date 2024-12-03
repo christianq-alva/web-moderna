@@ -34,21 +34,24 @@ Personaliza reglas específicas para el proyecto. Cada regla puede configurarse 
 	•	"error" o 2: Lanza un error.
 
 Explicación de cada regla:
-	1.	"indent": ["error", 2]
+1.	"indent": ["error", 2]
 	•	Enforce un indentado de 2 espacios.
 	•	Si el código no cumple, lanza un error.
-	2.	"linebreak-style": ["error", "unix"]
+2.	"linebreak-style": ["error", "unix"]
 	•	Obliga a usar saltos de línea estilo Unix (\n).
 	•	Si se usan saltos de línea estilo Windows (\r\n), lanza un error.
-	3.	"quotes": ["error", "single"]
+3.	"quotes": ["error", "single"]
 	•	Obliga al uso de comillas simples (') para las cadenas de texto.
 	•	Si usas comillas dobles ("), lanza un error.
-    4.	"semi": ["error", "always"]
+4.	"semi": ["error", "always"]
 	•	Obliga a usar punto y coma (;) al final de cada sentencia.
 	•	Si se omite, lanza un error.
-    5.	"no-unused-vars": "warn"
+5.	"no-unused-vars": "warn"
 	•	Genera una advertencia si hay variables declaradas pero no utilizadas.
 	•	No detiene la ejecución, pero señala la posible ineficiencia.
 	6.	"no-console": "warn"
 	•	Genera una advertencia si se usa console.log u otras funciones de consola.
 	•	Esto fomenta evitar el uso de logs en el código final.    
+
+# Despliegue
+[Texto del enlace](URL)
