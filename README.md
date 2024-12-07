@@ -7,7 +7,7 @@
 
 **02/12/2024**
 
-# Sobre el projecto
+# Sobre el proyecto
 
 En “La Web Moderna” podrás leer los conceptos clave que todo Desarrollador de Software debe saber para crear aplicaciones web.
 
