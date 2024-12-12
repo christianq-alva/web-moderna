@@ -54,4 +54,5 @@ Explicación de cada regla:
 	•	Esto fomenta evitar el uso de logs en el código final.    
 
 # Despliegue
-[https://christianq-alva.github.io/web-moderna/](URL)
+
+[Github](https://christianq-alva.github.io/web-moderna/)
