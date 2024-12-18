@@ -12,9 +12,9 @@ body {
 nav {
     background: linear-gradient(45deg,#1bce89, #001482);
     padding: 20px;
-    position: absolute;
     width: 100%;
-    bottom: 0;
+    bottom: auto;
+    display: inline-block;
 }
 
 nav > ul {
